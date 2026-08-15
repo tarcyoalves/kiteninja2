@@ -1,0 +1,6 @@
+{
+  "name": "KiteNinja",
+  "description": "Aplicativo para velejadores de kitesurf e wingfoil com monitoramento em tempo real de vento, tábua de marés, spots, histórico de navegações, feed da comunidade e eventos.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
